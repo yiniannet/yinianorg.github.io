@@ -6,6 +6,7 @@
     <title>一念</title>
     <style>
         body {
+            background-image: url("us.jpg");
             background-size: cover;
             transition: background-image 3s ease-in-out;
         }
@@ -15,32 +16,6 @@
 
 <audio src="cjdn.mp3" autoplay controls loop>
 </audio>
-
-<script>
-    // 背景图片数组
-    const backgrounds = [
-        'url(singapore.jpg)',
-        'url(japan.jpg)',
-        'url(london.jpg)',
-        'url(new_york.jpg)',
-        'url(paris.jpg)'
-    ];
-
-    // 当前背景图片的索引
-    let currentBackgroundIndex = 0;
-
-    // 切换背景图片的函数
-    function changeBackground() {
-        currentBackgroundIndex = (currentBackgroundIndex + 1) % backgrounds.length;
-        document.body.style.backgroundImage = backgrounds[currentBackgroundIndex];
-    }
-
-    // 设置背景图片初始值
-    document.body.style.backgroundImage = backgrounds[currentBackgroundIndex];
-
-    // 每5秒切换一次背景图片
-    setInterval(changeBackground, 60000);
-</script>
 
 </body>
 </html>
