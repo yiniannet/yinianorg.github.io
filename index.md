@@ -1,15 +1,6 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="UTF-8">
-    <title>一念</title>
-</head>
-<body>
-
 # 一念
 
-一念，是故事中变量，故事从而不再单调
+    一念，是故事中变量，故事从而不再单调
 
 ## 老鹰抓小鸡
 
@@ -36,6 +27,3 @@
     不远处的丛林里，屹立着一个猎人
 
     雄鹰飞向小鸡，不料被猎人一箭射死
-
-</body>
-</html>
