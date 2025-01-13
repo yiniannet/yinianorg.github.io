@@ -1,4 +1,4 @@
-
+若点击链接但浏览器提示异常，则需登录维基文库并设置默认显示语言为简体中文
 
 >三军可夺帅也，匹夫不可夺志也。——[《论语》](https://zh.wikisource.org/zh-hans/%E8%AB%96%E8%AA%9E/%E5%85%A8%E8%A6%BD#%E5%AD%90%E7%BD%95%E7%AC%AC%E4%B9%9D:~:text=%E5%AD%90%E6%9B%B0%EF%BC%9A%E2%80%9C-,%E4%B8%89%E5%86%9B%E5%8F%AF%E5%A4%BA%E5%B8%85%E4%B9%9F,-%EF%BC%8C%E5%8C%B9%E5%A4%AB%E4%B8%8D%E5%8F%AF%E5%A4%BA)
 
