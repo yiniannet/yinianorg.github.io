@@ -1,5 +1,7 @@
 若点击链接但浏览器提示异常，则需登录维基文库并设置默认显示语言为简体中文
 
+>力拔山兮气盖世，时不利兮骓不逝。骓不逝兮可柰何，虞兮虞兮柰若何！——[《史记/项羽本纪》](https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7007#:~:text=%E4%B8%BA%E8%AF%97%E6%9B%B0%EF%BC%9A%E2%80%9C-,%E5%8A%9B%E6%8B%94%E5%B1%B1%E5%85%AE%E6%B0%94%E7%9B%96%E4%B8%96,-%EF%BC%8C%E6%97%B6%E4%B8%8D%E5%88%A9%E5%85%AE)
+
 >人无远虑，必有近忧。——[《论语》](https://zh.wikisource.org/zh-hans/%E8%AB%96%E8%AA%9E/%E5%85%A8%E8%A6%BD#:~:text=%E4%BA%BA%E6%97%A0%E8%BF%9C%E8%99%91%EF%BC%8C-,%E5%BF%85%E6%9C%89%E8%BF%91%E5%BF%A7,-%E3%80%82%E2%80%9D)
 
 >命里有时终须有，命里无时莫强求。——[《金瓶梅》](https://zh.wikisource.org/wiki/%E9%87%91%E7%93%B6%E6%A2%85/%E7%AC%AC14%E5%9B%9E#:~:text=%E5%88%A9%E5%90%8D%E5%BF%A7%E3%80%82-,%E5%91%BD%E9%87%8C%E6%9C%89%E6%97%B6%E7%BB%88%E9%A1%BB%E6%9C%89,-%EF%BC%8C%E5%91%BD%E9%87%8C%E6%97%A0)
