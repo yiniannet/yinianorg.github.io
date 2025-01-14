@@ -1,5 +1,7 @@
 若点击链接但浏览器提示异常，则需登录维基文库并设置默认显示语言为简体中文
 
+>人无远虑，必有近忧。——[《论语》](https://zh.wikisource.org/zh-hans/%E8%AB%96%E8%AA%9E/%E5%85%A8%E8%A6%BD#:~:text=%E4%BA%BA%E6%97%A0%E8%BF%9C%E8%99%91%EF%BC%8C-,%E5%BF%85%E6%9C%89%E8%BF%91%E5%BF%A7,-%E3%80%82%E2%80%9D)
+
 >命里有时终须有，命里无时莫强求。——[《金瓶梅》](https://zh.wikisource.org/wiki/%E9%87%91%E7%93%B6%E6%A2%85/%E7%AC%AC14%E5%9B%9E#:~:text=%E5%88%A9%E5%90%8D%E5%BF%A7%E3%80%82-,%E5%91%BD%E9%87%8C%E6%9C%89%E6%97%B6%E7%BB%88%E9%A1%BB%E6%9C%89,-%EF%BC%8C%E5%91%BD%E9%87%8C%E6%97%A0)
 
 >三军可夺帅也，匹夫不可夺志也。——[《论语》](https://zh.wikisource.org/zh-hans/%E8%AB%96%E8%AA%9E/%E5%85%A8%E8%A6%BD#%E5%AD%90%E7%BD%95%E7%AC%AC%E4%B9%9D:~:text=%E5%AD%90%E6%9B%B0%EF%BC%9A%E2%80%9C-,%E4%B8%89%E5%86%9B%E5%8F%AF%E5%A4%BA%E5%B8%85%E4%B9%9F,-%EF%BC%8C%E5%8C%B9%E5%A4%AB%E4%B8%8D%E5%8F%AF%E5%A4%BA)
